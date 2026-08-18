@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Umgebungsvariablen (API-Keys!)
+.env
+
+# Daten (können groß werden, gehören nicht ins Repo)
+data/raw_images/
+*.db
+
+# IDE
+.vscode/
+.idea/
